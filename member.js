@@ -3,4 +3,5 @@ function skillMembers() {
   members.forEach((member) => {
     console.log(`${member} has a skill`);
   });
+  
 }
